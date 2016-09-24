@@ -21,13 +21,7 @@ author:
   github_username: 'AlexKalinin'
   head_img: 'static/img/landing/Alex.jpg'
 
-# social link
-jingyu:
-  first_name: 'Alex'
-  last_name: 'Kalinin'
-  description: 'Painter.'
-  link: 'http://angular.jack003.com'
-  email: 'login.hedin@gmail.com'
+
 
 # landing page
 landing:
