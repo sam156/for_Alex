@@ -4,12 +4,12 @@
 title: "Alex"
 description: "Alex's blog,use Jekyll and github pages."
 keywords: "Alex,Jalpc,blog,Jekyll,github,gh-pages"
-baseurl: "/"
+baseurl: "/Alex_task"
 #url: "http://www.jack003.com"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+#img_path: 'http://www.jack003.com/static/img/blog'
 
 # author
 author:
